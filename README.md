@@ -1,8 +1,8 @@
 ### Oi, Eu sou o Victor 👋
 
 
-- 🔭 Hoje trabalho com desenvolvimento Mobile
-- 🌱 Estou estudando Java e Android
+- 🔭 Hoje trabalho com desenvolvimento Mobile usando Kotlin
+- 🌱 Estou estudando desenvolvimento WEB
 - 📫 Contate-me no e-mail: victorleorp@outlook.com
 
 ##
